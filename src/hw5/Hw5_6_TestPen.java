@@ -1,4 +1,4 @@
-package hw;
+package hw5;
 
 // 建立父類別Pen
 // (1) 兩個屬性：品牌(brand)、價格(price) (封裝設計)

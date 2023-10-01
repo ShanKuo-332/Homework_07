@@ -1,4 +1,4 @@
-package hw;
+package hw6;
 
 public class Hw6_CalException extends Exception{
 	

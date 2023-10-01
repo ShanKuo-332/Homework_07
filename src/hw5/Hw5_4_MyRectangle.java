@@ -1,4 +1,4 @@
-package hw;
+package hw5;
 
 // 請設計一個類別MyRectangle：
 // (1) 有兩個double型態的屬性為width, depth
